@@ -1,2 +1,2 @@
 # Video-subtitles-maker-advanced
-Advanced Video subtitles maker (any language)
+Advanced Video subtitles maker (any language).

@@ -1,9 +1,4 @@
-# Video-subtitles-maker-advanced
-<h1 align="center">Advanced Subtitles Maker</h1>
-
-<p align="center">
-  <img src="path_to_logo_or_image" alt="Logo">
-</p>
+<h1 align="center">Video Advanced Subtitles Maker</h1>
 
 <h2>Description</h2>
 <p>Advanced Subtitles Maker is a Python application that automates creating styled subtitles for videos. It utilizes IBM Watson's Speech to Text API for transcription and offers a user-friendly GUI.</p>

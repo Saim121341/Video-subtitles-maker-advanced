@@ -1,56 +1,42 @@
 # Video-subtitles-maker-advanced
-Advanced Subtitles Maker
-Description
-Advanced Subtitles Maker is a Python-based application that automates the process of creating styled subtitles for videos. It leverages the IBM Watson Speech to Text API for accurate transcription and offers a user-friendly GUI for ease of use.
+<h1 align="center">Advanced Subtitles Maker</h1>
 
-Features
-Speech to text conversion using IBM Watson Speech to Text API.
-Support for multiple languages.
-Customizable subtitle styling in ASS format.
-User-friendly GUI for inputting video files and API credentials.
-Installation
-Prerequisites
-Python 3.x
-FFmpeg
-IBM Watson Speech to Text API Key
-Setup
-Clone the repository:
+<p align="center">
+  <img src="path_to_logo_or_image" alt="Logo">
+</p>
 
-bash
-Copy code
-git clone https://github.com/Saim121341/Video-subtitles-maker-advanced.git
-Install required Python packages:
+<h2>Description</h2>
+<p>Advanced Subtitles Maker is a Python application that automates creating styled subtitles for videos. It utilizes IBM Watson's Speech to Text API for transcription and offers a user-friendly GUI.</p>
 
-bash
-Copy code
-pip install -r requirements.txt
-Usage
-Run the script:
+<h2>Features</h2>
+<ul>
+  <li>Speech to text conversion with IBM Watson.</li>
+  <li>Support for multiple languages.</li>
+  <li>Customizable subtitle styling (ASS format).</li>
+  <li>Easy-to-use GUI for inputs and settings.</li>
+</ul>
 
-bash
-Copy code
-python advanced_subtitles_maker.py
-Enter the required details in the GUI:
+<h2>Installation</h2>
 
-Path to the video file
-IBM API Key and URL
-Language settings
-Click 'Generate Subtitles' to start the process.
+<p>Before running the Advanced Subtitles Maker, ensure you have the following installed:</p>
 
-Supported Languages
-English
-Korean
-Hindi
-French
-Spanish
-German
-Chinese
-Japanese
-Russian
-Italian
+<ul>
+  <li><b>Python 3.x:</b> Download and install from <a href="https://www.python.org/downloads/">python.org</a>.</li>
+  <li><b>FFmpeg:</b> Necessary for audio processing. Installation instructions can be found at <a href="https://ffmpeg.org/download.html">ffmpeg.org</a>.</li>
+  <li><b>IBM Watson Python SDK:</b> Install via pip using <code>pip install ibm-watson</code>.</li>
+  <li><b>Tkinter:</b> Usually comes pre-installed with Python. If not, install via pip using <code>pip install tk</code>.</li>
+</ul>
 
-Contributing
-Contributions to Advanced Subtitles Maker are welcome!
+<p>After installing the above, clone the repository and run the script.</p>
 
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+<h2>Usage</h2>
+<p>Instructions on how to use the application.</p>
+
+<h2>Contributing</h2>
+<p>You are welcome to contribute anything to the project.</p>
+
+<h2>License</h2>
+<p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
+
+<h2>Acknowledgments</h2>
+<p>Credits to IBM Watson, FFmpeg community</p>
